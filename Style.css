@@ -2,7 +2,7 @@ body {
 	background: #4E5851;
 }
 h1 {
-	color: #C3BBBF;
+	color: #FFE681;
 	font-family: monospace,verdana,arial, helvetica, tahoma ,verdana,  sans-serif;
 	font-size: 46px;
 	font-style: italic;
@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-	color: #C3BBBF;
+	color: #FFE681;
 	font-family: monospace,verdana,arial, helvetica, tahoma ,verdana,  sans-serif;
 	font-size: 30px;
 	font-style: italic;
@@ -24,7 +24,7 @@ h2 {
 }
 
 h3 {
-	color: #C3BBBF;
+	color: #FFE681;
 	font-family: monospace,verdana,arial, helvetica, tahoma ,verdana,  sans-serif;
 	font-size: 28px;
 	font-weight: 400;
@@ -46,7 +46,7 @@ p {
 }
 
 a {
-	color: #C3BBBF;	border-bottom: 1px solid #C3BBBF;
+	color: #FFE681;	border-bottom: 1px solid #FFE681;
 	font-style: italic;
 	text-decoration: none;
 	font-family: LatoRegular, Arial, Helvetica;
@@ -56,7 +56,7 @@ a {
 
 a:hover {
 	border-bottom: 2px solid #f6d55c;
-	color: #C3BBBF;
+	color: #FFE681;
 	font-family: LatoRegular, Arial, Helvetica;
 	font-size: 20px;
 	font-weight: 500;	
@@ -79,7 +79,7 @@ a:hover {
 }*/
 
 
-.trenn {color:#C3BBBF}
+.trenn {color:#FFE681}
 
 .wrap {
     margin: 0 auto;
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .fuss {
-	color: #C3BBBF;	border-bottom: 1px solid #C3BBBF;
+	color: #FFE681;	border-bottom: 1px solid #FFE681;
 	font-style: italic;
 	text-decoration: none;
 }
